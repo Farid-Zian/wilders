@@ -1,0 +1,23 @@
+{
+  "name": "farid",
+  "version": "1.0.0",
+  "description": "wilders",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "coucou"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Farid-Zian/my-awesome-project.git"
+  },
+  "author": "farid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farid-Zian/my-awesome-project/issues"
+  },
+  "homepage": "https://github.com/Farid-Zian/my-awesome-project#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
